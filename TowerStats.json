@@ -2,7 +2,7 @@
     "Guest": {
         "Type": "Single",
         "Image": "rbxassetid://16620053009",
-        "Rarity": "Uncommon",
+        "Rarity": "Common",
         "PlacePrice": 300,
         "Max": 8,
         "Offset": 0.3,
@@ -118,7 +118,7 @@
      "1x1x1x1": {
         "Type": "Continuous",
         "Image": "rbxassetid://16620268084",
-        "Rarity": "Devine",
+        "Rarity": "Godly",
         "PlacePrice": 7500,
         "Max": 3,
         "hitboxOffset": {
